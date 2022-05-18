@@ -1,0 +1,113 @@
+{
+  "roots": [
+    {
+      "key": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "vault",
+      "children": [
+        {
+          "key": "boyvi0ju1umrdrhhr15xl45",
+          "title": "Areas",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "m5dtrr73dw40buf3qhfmxnk",
+              "title": "Geopolitics",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "98ve5eeymi0m99znhjuakxb",
+          "title": "Resources",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "im7paadcjpb37qsk9cun0z2",
+              "title": "Books",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "jbg7c626xhfwx64ayu54rka",
+                  "title": "Geopolitics A Very Short Introduction",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "wyx2k947ysje0n3hi8ucumt",
+              "title": "People",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "qk60q2hqvuwb1lsic93yjcp",
+                  "title": "Seneca",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "0thboh4ozy54qxpc7yct6m6",
+          "title": "Swipes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "vault",
+          "children": [
+            {
+              "key": "ew37nqv1deuf89eswkxhh8f",
+              "title": "Quotes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "vault",
+              "children": [
+                {
+                  "key": "dvdc9wyhxtrff7klq1y46lc",
+                  "title": "Be yourself; everyone else is already taken",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "vault",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "wn8PE1RhG0znK1alrGFYv": null,
+    "0thboh4ozy54qxpc7yct6m6": "wn8PE1RhG0znK1alrGFYv",
+    "ew37nqv1deuf89eswkxhh8f": "0thboh4ozy54qxpc7yct6m6",
+    "dvdc9wyhxtrff7klq1y46lc": "ew37nqv1deuf89eswkxhh8f",
+    "98ve5eeymi0m99znhjuakxb": "wn8PE1RhG0znK1alrGFYv",
+    "wyx2k947ysje0n3hi8ucumt": "98ve5eeymi0m99znhjuakxb",
+    "qk60q2hqvuwb1lsic93yjcp": "wyx2k947ysje0n3hi8ucumt",
+    "im7paadcjpb37qsk9cun0z2": "98ve5eeymi0m99znhjuakxb",
+    "jbg7c626xhfwx64ayu54rka": "im7paadcjpb37qsk9cun0z2",
+    "boyvi0ju1umrdrhhr15xl45": "wn8PE1RhG0znK1alrGFYv",
+    "m5dtrr73dw40buf3qhfmxnk": "boyvi0ju1umrdrhhr15xl45"
+  }
+}

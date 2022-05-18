@@ -1,0 +1,409 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1652901252592,
+      "created": 1652901252592,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "desc": "",
+      "updated": 1645566125381,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f1b736f381bab210e312b2f26634991d",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "boyvi0ju1umrdrhhr15xl45",
+        "98ve5eeymi0m99znhjuakxb",
+        "0thboh4ozy54qxpc7yct6m6"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "0thboh4ozy54qxpc7yct6m6": {
+      "id": "0thboh4ozy54qxpc7yct6m6",
+      "title": "Swipes",
+      "desc": "",
+      "updated": 1652899713339,
+      "created": 1652899713339,
+      "custom": {},
+      "fname": "swipes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "6304b7e5e9dcf6521f4145bc437b2fc3",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "ew37nqv1deuf89eswkxhh8f"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "ew37nqv1deuf89eswkxhh8f": {
+      "id": "ew37nqv1deuf89eswkxhh8f",
+      "title": "Quotes",
+      "desc": "",
+      "updated": 1652899727431,
+      "created": 1652899727431,
+      "custom": {},
+      "fname": "swipes.quotes",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "10600d311237762db4316e5e48a75536",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "dvdc9wyhxtrff7klq1y46lc"
+      ],
+      "parent": "0thboh4ozy54qxpc7yct6m6",
+      "data": {}
+    },
+    "dvdc9wyhxtrff7klq1y46lc": {
+      "id": "dvdc9wyhxtrff7klq1y46lc",
+      "title": "Be yourself; everyone else is already taken",
+      "desc": "",
+      "updated": 1652900123350,
+      "created": 1652900092078,
+      "custom": {},
+      "fname": "swipes.quotes.Be yourself; everyone else is already taken",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "7ed5b7cdb41da0538a3d79183b022677",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "ew37nqv1deuf89eswkxhh8f",
+      "data": {}
+    },
+    "98ve5eeymi0m99znhjuakxb": {
+      "id": "98ve5eeymi0m99znhjuakxb",
+      "title": "Resources",
+      "desc": "",
+      "updated": 1652898380491,
+      "created": 1652898380491,
+      "custom": {},
+      "fname": "resources",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "fa8617015beb42e27fd81f18c9c376cb",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "im7paadcjpb37qsk9cun0z2",
+        "wyx2k947ysje0n3hi8ucumt"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "wyx2k947ysje0n3hi8ucumt": {
+      "id": "wyx2k947ysje0n3hi8ucumt",
+      "title": "People",
+      "desc": "",
+      "updated": 1652899743952,
+      "created": 1652899743952,
+      "custom": {},
+      "fname": "resources.people",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "214c2a8a66744fb67e3ee962a4a7a4e9",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "qk60q2hqvuwb1lsic93yjcp"
+      ],
+      "parent": "98ve5eeymi0m99znhjuakxb",
+      "data": {}
+    },
+    "qk60q2hqvuwb1lsic93yjcp": {
+      "id": "qk60q2hqvuwb1lsic93yjcp",
+      "title": "Seneca",
+      "desc": "",
+      "updated": 1652899763293,
+      "created": 1652899763293,
+      "custom": {},
+      "fname": "resources.people.seneca",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "3d428dfb82a17b5264f900b6d642320e",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": "wyx2k947ysje0n3hi8ucumt",
+      "data": {}
+    },
+    "im7paadcjpb37qsk9cun0z2": {
+      "id": "im7paadcjpb37qsk9cun0z2",
+      "title": "Books",
+      "desc": "",
+      "updated": 1652899693475,
+      "created": 1652899693475,
+      "custom": {},
+      "fname": "resources.books",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "e1adc66c0944564f9d6e35c503a39ecb",
+      "links": [],
+      "anchors": {},
+      "children": [
+        "jbg7c626xhfwx64ayu54rka"
+      ],
+      "parent": "98ve5eeymi0m99znhjuakxb",
+      "data": {}
+    },
+    "jbg7c626xhfwx64ayu54rka": {
+      "id": "jbg7c626xhfwx64ayu54rka",
+      "title": "Geopolitics A Very Short Introduction",
+      "desc": "",
+      "updated": 1652899907381,
+      "created": 1652898407943,
+      "custom": {},
+      "fname": "resources.books.geopolitics a very short introduction",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "944ef44c55adc6bb2929f5b110dc3962",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "resources.books.geopolitics a very short introduction",
+            "id": "jbg7c626xhfwx64ayu54rka",
+            "vaultName": "vault"
+          },
+          "value": "areas.geopolitics",
+          "alias": "areas.geopolitics",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 2,
+              "column": 31,
+              "offset": 31
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "areas.geopolitics"
+          }
+        }
+      ],
+      "anchors": {
+        "notes": {
+          "type": "header",
+          "text": "Notes",
+          "value": "notes",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "im7paadcjpb37qsk9cun0z2",
+      "data": {}
+    },
+    "boyvi0ju1umrdrhhr15xl45": {
+      "id": "boyvi0ju1umrdrhhr15xl45",
+      "title": "Areas",
+      "desc": "",
+      "updated": 1652898342613,
+      "created": 1652898300455,
+      "custom": {},
+      "fname": "areas",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "44b8246f23102d6865611c5ab14cd7ca",
+      "links": [],
+      "anchors": {
+        "areas-of-interests-with-map-of-concepts": {
+          "type": "header",
+          "text": "Areas of Interests with Map of Concepts",
+          "value": "areas-of-interests-with-map-of-concepts",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "m5dtrr73dw40buf3qhfmxnk"
+      ],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    },
+    "m5dtrr73dw40buf3qhfmxnk": {
+      "id": "m5dtrr73dw40buf3qhfmxnk",
+      "title": "Geopolitics",
+      "desc": "",
+      "updated": 1652898358173,
+      "created": 1652898358173,
+      "custom": {},
+      "fname": "areas.geopolitics",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "a1c7ca8f5ce68930a911111b53199220",
+      "links": [
+        {
+          "from": {
+            "fname": "resources.books.geopolitics a very short introduction",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 10,
+              "offset": 10
+            },
+            "end": {
+              "line": 2,
+              "column": 31,
+              "offset": 31
+            },
+            "indent": []
+          },
+          "value": "areas.geopolitics",
+          "alias": "areas.geopolitics"
+        }
+      ],
+      "anchors": {},
+      "children": [],
+      "parent": "boyvi0ju1umrdrhhr15xl45",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Root",
+      "desc": "",
+      "updated": 1645566125381,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "f1b736f381bab210e312b2f26634991d",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "boyvi0ju1umrdrhhr15xl45",
+        "98ve5eeymi0m99znhjuakxb",
+        "0thboh4ozy54qxpc7yct6m6"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "# Welcome to Dendron\n\n> This website is generated by a Dendron template. For more information, see the [template README file](https://github.com/dendronhq/template.publish.github-action/). Feel free to modify and delete this section.\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n\nLast updated: \n- version: v0.83\n\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Root",
+    "desc": "",
+    "updated": 1645566125381,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "f1b736f381bab210e312b2f26634991d",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "boyvi0ju1umrdrhhr15xl45",
+      "98ve5eeymi0m99znhjuakxb",
+      "0thboh4ozy54qxpc7yct6m6"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "# Welcome to Dendron\n\n> This website is generated by a Dendron template. For more information, see the [template README file](https://github.com/dendronhq/template.publish.github-action/). Feel free to modify and delete this section.\n\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top. \n\nLast updated: \n- version: v0.83\n\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
